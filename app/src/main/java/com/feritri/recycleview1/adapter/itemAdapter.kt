@@ -11,6 +11,7 @@ import com.feritri.recycleview1.R
 import com.feritri.recycleview1.model.Affirmation
 
 class itemAdapter (
+//Mengupdate ItemAdapter untuk menyetel teks dan gambar
     private val context: Context,
     private val dataset: List<Affirmation>
 ) : RecyclerView.Adapter<itemAdapter.ItemViewHolder>() {

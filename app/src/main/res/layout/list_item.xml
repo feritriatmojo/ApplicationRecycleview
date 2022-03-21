@@ -4,11 +4,13 @@
     android:layout_height="wrap_content"
     android:layout_margin="8dp">
 
+    //mengatur tampilan menggunakan linear layout
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
+        //Menambahkan ImageView ke tata letak item daftar
         <ImageView
             android:id="@+id/item_image"
             android:layout_width="match_parent"
@@ -16,6 +18,7 @@
             android:importantForAccessibility="no"
             android:scaleType="centerCrop" />
 
+        //Menambahkan TextView ke tata letak item daftar
         <TextView
             android:id="@+id/item_title"
             android:layout_width="wrap_content"

@@ -3,6 +3,7 @@ import com.feritri.recycleview1.R
 import com.feritri.recycleview1.model.Affirmation
 
 class Datasource {
+    //Melakukan inisialisasi daftar afirmasi dengan teks dan gambar
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
             Affirmation(R.string.affirmation1, R.drawable.image1),

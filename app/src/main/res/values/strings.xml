@@ -1,4 +1,5 @@
 <resources>
+    // menambahkan daftar teks affirmasi
     <string name="app_name">recycleview1</string>
     <string name="affirmation1">Bila kamu mengalami masa sulit, serahkan segala khawatiranmu kepada-Nya, sebab Ia akan selalu memelihara engkau</string>
     <string name="affirmation2">Memanjatkan doa lebih baik dengan memiliki hati tanpa kata-kata dibanding memanjatkan doa dengan memiliki kata-kata, namun tanpa hati</string>
